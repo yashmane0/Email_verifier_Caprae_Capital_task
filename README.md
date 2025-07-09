@@ -41,7 +41,7 @@ Bob,bob@example.com,Example Co,Boston,Finance
 ...
 ```
 
-##Screenshot:
+## Screenshot:
 
 ![image](https://github.com/user-attachments/assets/f18e1ed9-543a-479e-889c-a7603263b476)
 ![image](https://github.com/user-attachments/assets/2e16c603-12d3-4a1d-8910-80dfb9efebe8)
